@@ -5,13 +5,12 @@
 
 
 <!---Profile Views--->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushpaigwar&label=Profile%20views&color=0e75b6&style=flat" alt="aayushpaigwar" /> </p>
-
-
 <!---LinkedIn Badge--->
-
 [![Linkedin: Aayush](https://img.shields.io/badge/-Aayush-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aayush-paigwar-457946225/)
+![ProfileViews](https://komarev.com/ghpvc/?username=aayushpaigwar&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -19,20 +18,24 @@
 
 - 📫 How to reach me **aayush.paigwar123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">✔Connect with me:</h3>
 <p align="left">
 
 
 <!---Social Media--->
-<a href="https://linkedin.com/in/aayush-paigwar-457946225/" target="blank"><img align="left" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" alt="aayush27_11" width="30" /></a>
+<a href="https://linkedin.com/in/aayush-paigwar-457946225/" target="blank"><img align="left" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" alt="aayush27_11" width="40" /></a>
 
-<a href="https://instagram.com/aayush.paigwar" target="blank"><img align="left" src="https://img.icons8.com/fluency/452/instagram-new.png" alt="aayush.paigwar"  width="30" /></a>
+<a href="https://instagram.com/aayush.paigwar" target="blank"><img align="left" src="https://img.icons8.com/fluency/452/instagram-new.png" alt="aayush.paigwar"  width="40" /></a>
 
-<a href="https://www.youtube.com/channel/UCPf8SZzESwDYd7sTuUiAa2w" target="blank"><img align="left" src="https://img.icons8.com/fluency/344/youtube-play.png" alt="https://www.youtube.com/channel/UCPf8SZzESwDYd7sTuUiAa2w" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCPf8SZzESwDYd7sTuUiAa2w" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/youtube-play.png" alt="https://www.youtube.com/channel/UCPf8SZzESwDYd7sTuUiAa2w" height=40 width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!---Tools--->
+
+<h3 align="left">✔Languages and Tools:</h3>
+
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushpaigwar&show_icons=true&locale=en&layout=compact" alt="aayushpaigwar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushpaigwar&" alt="aayushpaigwar" /></p>
