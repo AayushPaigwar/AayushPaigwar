@@ -17,6 +17,7 @@
 - 💬 Ask me about **Python, C, Video editing**
 
 - 📫 How to reach me **aayush.paigwar123@gmail.com**
+- 💡 **Always ready to learn something new**
 
 <h3 align="left">✔Connect with me:</h3>
 <p align="left">
