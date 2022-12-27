@@ -6,7 +6,7 @@
 
 <!---Profile Views--->
 <!---LinkedIn Badge--->
-[![Linkedin: Aayush](https://img.shields.io/badge/-Aayush-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aayush-paigwar-457946225/)
+
 ![ProfileViews](https://komarev.com/ghpvc/?username=aayushpaigwar&label=Profile%20views&color=0e75b6&style=flat)
 
 
