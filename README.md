@@ -23,11 +23,11 @@
 
 
 <!---Social Media--->
-<a href="https://linkedin.com/in/aayush-paigwar-457946225/" target="blank"><img align="left" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" alt="aayush27_11" width="40" /></a>
+<a href="https://linkedin.com/in/aayush-paigwar-457946225/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aayush27_11"  /></a>
 
-<a href="https://instagram.com/aayush.paigwar" target="blank"><img align="left" src="https://img.icons8.com/fluency/452/instagram-new.png" alt="aayush.paigwar"  width="40" /></a>
+<a href="https://instagram.com/aayush.paigwar" target="blank"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<a href="https://www.youtube.com/channel/UCPf8SZzESwDYd7sTuUiAa2w" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/youtube-play.png" alt="https://www.youtube.com/channel/UCPf8SZzESwDYd7sTuUiAa2w" height=40 width="40" /></a>
+<a href="https://www.youtube.com/channel/UCPf8SZzESwDYd7sTuUiAa2w" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCPf8SZzESwDYd7sTuUiAa2w"/></a>
 </p>
 
 <!---Tools--->
