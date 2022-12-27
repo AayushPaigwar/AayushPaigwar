@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Video editing**
+- 💬 Ask me about **Python, C, Video editing**
 
 - 📫 How to reach me **aayush.paigwar123@gmail.com**
 
