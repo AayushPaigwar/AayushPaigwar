@@ -28,7 +28,7 @@
 
 <a href="https://instagram.com/aayush.paigwar" target="blank"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<a href="https://www.youtube.com/channel/UCPf8SZzESwDYd7sTuUiAa2w" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCPf8SZzESwDYd7sTuUiAa2w"/></a>
+<a href="https://twitter.com/aayush27_11" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Link"/></a>
 </p>
 
 <!---Tools--->
