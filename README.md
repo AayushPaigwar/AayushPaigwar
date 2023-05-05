@@ -1,6 +1,6 @@
 ![Logo](https://github.com/AayushPaigwar/AayushPaigwar/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Aayush Paigwar</h1>
-<h3 align="center">A passionate self taught developer from India</h3>
+<h3 align="center">A passionate self taught developer & Graphic Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Python, C, Video editing**
+- 💬 Ask me about ** C, C++, Python, Graphic Design**
 
 - 📫 How to reach me **aayush.paigwar123@gmail.com**
 - 💡 **Always ready to learn something new**
