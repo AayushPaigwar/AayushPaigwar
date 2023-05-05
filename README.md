@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about ** C, C++, Python, Graphic Design**
+- 💬 Ask me about **C, C++, Python, Graphic Design**
 
 - 📫 How to reach me **aayush.paigwar123@gmail.com**
 - 💡 **Always ready to learn something new**
