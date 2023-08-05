@@ -18,7 +18,7 @@
 
 <!---Profile Views--->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AayushPaigwar" alt="AayushPaigwar" /></a> </p> <!-- Aayush, This is Small piece of addition i thought, if you ever think of giving this a try..by seeing trophies in other's read.me file. So being a friendi thought to give it away. You merge this in ..and see how does it look , u may comment this feat later as u suit. -->
+
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=aayushpaigwar&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -94,7 +94,7 @@
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushPaigwar&layout=compact&theme=dark" />
 </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AayushPaigwar" alt="AayushPaigwar" /></a> </p> <!-- Aayush, This is Small piece of addition i thought, if you ever think of giving this a try..by seeing trophies in other's read.me file. So being a friendi thought to give it away. You merge this in ..and see how does it look , u may comment this feat later as u suit. -->
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
