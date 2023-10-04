@@ -82,6 +82,13 @@
 ![Linux](https://img.shields.io/badge/Linux-12100E?style=for-the-badge&logo=linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-12100E?style=for-the-badge&logo=apple&logoColor=white)
 
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+	
+[![Aayush's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayushPaigwar&theme=github-dark)](https://github.com/AayushPaigwar)
+
   <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
