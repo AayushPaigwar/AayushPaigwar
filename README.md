@@ -87,27 +87,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 	
+[![Aayush's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayushPaigwar&theme=github-dark)](https://github.com/AayushPaigwar)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aayushpaigwar&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&border=EB9330)](https://git.io/streak-stats)
-[![Aayush GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aayushpaigwar&show_icons=true&border_color=EB9330&border_radius=10&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
- 
-
+  <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
   
   <p align="center">
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aayushpaigwar&theme=black&border_radius=10&show_icons=true&theme=dark" /> -->
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aayushpaigwar&show_icons=true&border_color=EB9330&border_radius=10&theme=dark#gh-dark-mode-only" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=aayushpaigwar&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&border=EB9330" />
 </p>
  
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushPaigwar&show_icons=true&border_color=EB9330&border_radius=10&theme=dark#gh-dark-mode-only" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushPaigwar&layout=compact&theme=dark" />
 </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AayushPaigwar" alt="AayushPaigwar" /></a> </p> <!-- Aayush, This is Small piece of addition i thought, if you ever think of giving this a try..by seeing trophies in other's read.me file. So being a friendi thought to give it away. You merge this in ..and see how does it look , u may comment this feat later as u suit. 
  <p  align="center"> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
-[![Aayush's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayushPaigwar&theme=github-dark)](https://github.com/AayushPaigwar)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-
