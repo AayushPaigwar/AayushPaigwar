@@ -87,17 +87,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 	
-[![Aayush's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayushPaigwar&theme=github-dark)](https://github.com/AayushPaigwar)
+<!-- [![Aayush's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayushPaigwar&theme=github-dark)](https://github.com/AayushPaigwar)-->
 
-  <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+
   
-  <p align="center">
+<!--   <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aayushpaigwar&show_icons=true&border_color=EB9330&border_radius=10&theme=dark#gh-dark-mode-only" />
   <img width="48%" src="https://streak-stats.demolab.com?user=aayushpaigwar&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&border=EB9330" />
-</p>
- 
+</p>  -->
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aayushpaigwar&show_icons=true&border_color=EB9330&border_radius=10&theme=dark#gh-dark-mode-only)
+![Streak](https://streak-stats.demolab.com/?user=aayushpaigwar&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&border=EB9330)
+
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushPaigwar&layout=compact&theme=dark" />
 </p>
