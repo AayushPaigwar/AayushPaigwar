@@ -91,11 +91,17 @@
 
 
   
-   <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aayushpaigwar&show_icons=true&border_color=EB9330&border_radius=10&theme=dark#gh-dark-mode-only" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=aayushpaigwar&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&border=EB9330" />
+<p align="center" >
+<a href="https://github.com/aayushpaigwar">	
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aayushpaigwar&show_icons=true&border_color=EB9330&border_radius=10&theme=dark#gh-dark-mode-only" />
+</a>
 </p> 
 
+<p align="center" >
+<a href="https://github.com/aayushpaigwar">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushpaigwar&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&border=EB9330" width="400">
+</a>
+</p> 
 
 
 <p align="center">
