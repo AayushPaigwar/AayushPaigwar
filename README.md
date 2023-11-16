@@ -5,7 +5,7 @@
 --->
 <!--- GIF AAYUSH PAIGWAR--->
 <div id="header" align="center">
-  <img src="https://github.com/AayushPaigwar/AayushPaigwar/blob/main/Github%20GIF%20BANNER.gif" width="1080" height="380"/>
+  <img src="https://github.com/AayushPaigwar/AayushPaigwar/blob/main/Github%20GIF%20BANNER.gif" width="1080" height="300"/>
 </div>
 
 
