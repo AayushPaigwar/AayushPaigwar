@@ -87,6 +87,14 @@
 ![Linux](https://img.shields.io/badge/Linux-12100E?style=for-the-badge&logo=linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-12100E?style=for-the-badge&logo=apple&logoColor=white)
 
+## 
+
+<details >
+    <summary><h3>👈🏻HacktoberFest 2023🎃 </h3></summary>
+
+[![An image of @aayushpaigwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushpaigwar)](https://holopin.io/@aayushpaigwar)
+</details>
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -117,6 +125,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 
-## HacktoberFest 2023🎃
-
-[![An image of @aayushpaigwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushpaigwar)](https://holopin.io/@aayushpaigwar)
