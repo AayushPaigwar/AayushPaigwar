@@ -119,7 +119,7 @@
 
 
   
-<!--<img align="middle" src="https://wakatime.com/share/@aayushpaigwar/2b86a84e-7d54-418e-8ef1-928abc09d5f4.svg" height="300px" width='300px'>-->
+<img align="middle" src="https://wakatime.com/share/@aayushpaigwar/e7c86100-2edc-497d-a49a-d52faf6fdf46.svg" height="300px" width='300px'>
 
 <p align="center" >
 <a href="https://github.com/aayushpaigwar">	
@@ -134,9 +134,9 @@
 </p> 
 
 
-<p align="center">
+<!--<p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushPaigwar&layout=compact&theme=dark" />
-</p>
+</p>-->
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AayushPaigwar" alt="AayushPaigwar" /></a> </p> <!-- Aayush, This is Small piece of addition i thought, if you ever think of giving this a try..by seeing trophies in other's read.me file. So being a friendi thought to give it away. You merge this in ..and see how does it look , u may comment this feat later as u suit. 
