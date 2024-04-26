@@ -118,8 +118,10 @@
 
 
 
-  
-<img align="middle" src="https://wakatime.com/share/@aayushpaigwar/e7c86100-2edc-497d-a49a-d52faf6fdf46.svg" height="300px" width='300px'>
+
+<img align="middle" src="https://wakatime.com/share/@aayushpaigwar/c87c541e-46dc-475d-8ea9-84a6f16def4f.svg" height="300px" width='300px'>
+<img align="middle" src="https://wakatime.com/share/@aayushpaigwar/2abcbe38-7f02-4d80-a602-90c74025dfff.svg" height="250px" width='48%'>
+
 
 <p align="center" >
 <a href="https://github.com/aayushpaigwar">	
