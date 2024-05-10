@@ -47,11 +47,11 @@
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-2. 💪 Opened PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-3. 🎉 Merged PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-4. 💪 Opened PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-5. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
+1. 🔒 Closed issue [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+2. 🎉 Merged PR [#35](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/35) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+3. 🗣 Commented on [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34#issuecomment-2104445831) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+4. 🎉 Merged PR [#33](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/33) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+5. 🗣 Commented on [#33](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/33#issuecomment-2100181450) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
   <!--END_SECTION:activity-->
   </details> 
 ## 🚀 Connect with me:
