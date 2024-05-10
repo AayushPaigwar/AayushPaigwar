@@ -27,9 +27,9 @@
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=aayushpaigwar&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter, Backend**
 
-- 💬 Ask me about **C, C++, Python, Graphic Design**
+- 💬 Ask me about **Dart, C, C++, Python, Figma**
 
 - 📫 How to reach me **aayush.paigwar123@gmail.com**
 - 💡 **Always ready to learn something new**
