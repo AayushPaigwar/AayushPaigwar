@@ -1,16 +1,10 @@
-<!---
-<div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="350" height="250"/>
-</div>
---->
-<!--- GIF AAYUSH PAIGWAR--->
+<!--- Banner AAYUSH PAIGWAR--->
 <div id="header" align="center">
   <img src="https://github.com/AayushPaigwar/AayushPaigwar/blob/main/Assets/banner.png"/>
 </div>
 
-
-
-<!---GIF--->
+zz
+<!---Line GIF--->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -57,59 +51,25 @@
 👯 Join my opensource community [recodehive](https://github.com/Recode-Hive)<br>
 💬 Ask me about Flutter, Figma, Python, UI<br>
 
-
---------------------------------------------
-<!--- 2nd Section on GitHub Analytics -->
-  <summary><b>⚙️GitHub Analytics</b></summary>
-<a href="https://github.com/aayushpaigwar">
-   <img height="155em" src="https://raw.githubusercontent.com/aayushpaigwar/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Aayush Paigwar github stats" />
-   <img height="155em" src="https://raw.githubusercontent.com/aayushpaigwar/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Aayush Paigwar github stats" />
- <img height="155em" src="https://raw.githubusercontent.com/aayushpaigwar/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Aayush Paigwar github stats" />
-  <img height="155em" src="https://raw.githubusercontent.com/aayushpaigwar/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Aayush Paigwar github stats" />  
-   <img height="160em" src="https://raw.githubusercontent.com/aayushpaigwar/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
-     
 --------------------------------------------
 
 <!--- 3rd Section on Recent Projects -->
 
-  <details>	
-    <summary><b>📚Recent Projects/Activity</b></summary><br>
 
+<summary><b>📚Recent Activity at GitHub</b></summary><br>
   <!--START_SECTION:activity-->
+
 1. 🔒 Closed issue [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
 2. 🎉 Merged PR [#35](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/35) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
 3. 🗣 Commented on [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34#issuecomment-2104445831) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
 4. 🎉 Merged PR [#33](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/33) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
 5. 🗣 Commented on [#33](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/33#issuecomment-2100181450) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
   <!--END_SECTION:activity-->
-  </details> 
+ 
 
 --------------------------------------------
-## 🚀 Connect with me:
-<!-- 
-<p align="center">
-	<a href="https://www.linkedin.com/in/aayush-paigwar-457946225/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aayush.paigwar123@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-  <a href="https://twitter.com/aayush27_11"">
-		<img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-	<a href="https://instagram.com/aayush___27/">
-		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-	</a>
-	<a href="https://medium.com/@aayushpaigwar">
-		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-	</a>      
-</p> -->
-<!---Tools--->
-
 ## 💥 Tech Stack:
-
 ### 🧑🏻‍💻 Languages:
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
@@ -119,10 +79,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-
-
 ## 📚 Libraries & Frameworks:
-
 ![Flutter](https://img.shields.io/badge/Flutter-%230175C2.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%230175C2.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-27338e?style=for-the-badge&logo=Pandas&logoColor=white)
@@ -133,7 +90,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## ⚡️ Tools & Platforms:
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -141,17 +97,11 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23E4405F.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
-
-
-
 ### 💻 Workspace:
 
 ![MacOS](https://img.shields.io/badge/MacOS-12100E?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-12100E?style=for-the-badge&logo=linux&logoColor=white)
-
-
-## 
 
 <details >
     <summary><h3>👈🏻HacktoberFest 2023🎃 </h3></summary>
@@ -165,8 +115,6 @@
 <br>
 	
 <!-- [![Aayush's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AayushPaigwar&theme=github-dark)](https://github.com/AayushPaigwar)-->
-
-
 
 
 <img align="middle" src="https://wakatime.com/share/@aayushpaigwar/c87c541e-46dc-475d-8ea9-84a6f16def4f.svg" height="300px" width='300px'>
@@ -185,14 +133,6 @@
 </a>
 </p> 
 
-
-<!--<p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushPaigwar&layout=compact&theme=dark" />
-</p>-->
-
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AayushPaigwar" alt="AayushPaigwar" /></a> </p> <!-- Aayush, This is Small piece of addition i thought, if you ever think of giving this a try..by seeing trophies in other's read.me file. So being a friendi thought to give it away. You merge this in ..and see how does it look , u may comment this feat later as u suit. 
- <p  align="center"> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 
