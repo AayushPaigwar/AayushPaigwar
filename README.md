@@ -59,11 +59,11 @@
 <summary><b>📚Recent Activity at GitHub</b></summary><br>
   <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-2. 🎉 Merged PR [#35](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/35) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-3. 🗣 Commented on [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34#issuecomment-2104445831) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-4. 🎉 Merged PR [#33](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/33) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-5. 🗣 Commented on [#33](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/33#issuecomment-2100181450) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+1. 🎉 Merged PR [#3](https://github.com/AayushPaigwar/AayushPaigwar/pull/3) in [AayushPaigwar/AayushPaigwar](https://github.com/AayushPaigwar/AayushPaigwar)
+2. 🔒 Closed issue [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+3. 🎉 Merged PR [#35](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/35) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+4. 🗣 Commented on [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34#issuecomment-2104445831) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+5. 🎉 Merged PR [#33](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/33) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
   <!--END_SECTION:activity-->
  
 
