@@ -5,7 +5,7 @@
 --->
 <!--- GIF AAYUSH PAIGWAR--->
 <div id="header" align="center">
-  <img src="https://github.com/AayushPaigwar/AayushPaigwar/blob/main/bannar.png"/>
+  <img src="https://github.com/AayushPaigwar/AayushPaigwar/blob/main/Assets/banner.png"/>
 </div>
 
 
@@ -16,46 +16,11 @@
 <br>
   
 
-<h1 align="center">Hi 👋, I'm Aayush Paigwar</h1>
-<h3 align="center">A passionate self taught developer & Graphic Designer from India</h3>
+<h1 align="center">Hi there, I'm  <a href="https://aayushpaigwar.co">Aayush Paigwar</a> </h1></h1>
+<h3 align="center">A Flutter Developer & Designer</h3>
 
 
-
-<!---Profile Views--->
-
-
-
-![ProfileViews](https://komarev.com/ghpvc/?username=aayushpaigwar&label=Profile%20views&color=0e75b6&style=flat)
-
-- 🌱 I’m currently learning **Flutter, Backend**
-
-- 💬 Ask me about **Dart, C, C++, Python, Figma**
-
-- 📫 How to reach me **aayush.paigwar123@gmail.com**
-- 💡 **Always ready to learn something new**
-
-
-<!--- 3rd Section on Recent Projects -->
-
-  <details>	
-    <summary><b>📚Recent Projects/Activity</b></summary><br>
-
-  ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
-  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
-  ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
-  ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
-  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
-
-  <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-2. 🎉 Merged PR [#35](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/35) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-3. 🗣 Commented on [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34#issuecomment-2104445831) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-4. 🎉 Merged PR [#33](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/33) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-5. 🗣 Commented on [#33](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/33#issuecomment-2100181450) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-  <!--END_SECTION:activity-->
-  </details> 
-## 🚀 Connect with me:
-
+<!-- Connect with me Socials -->
 <p align="center">
 	<a href="https://www.linkedin.com/in/aayush-paigwar-457946225/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -73,6 +38,72 @@
 		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 	</a>      
 </p>
+
+
+<!---Profile Views--->
+![ProfileViews](https://komarev.com/ghpvc/?username=aayushpaigwar&label=Profile%20views&color=0e75b6&style=flat)
+
+--------------------------------------------
+
+<!-- - 🌱 I’m currently learning **Flutter, Backend**
+
+- 💬 Ask me about **Dart, C, C++, Python, Figma**
+
+- 📫 How to reach me **aayush.paigwar123@gmail.com**
+- 💡 **Always ready to learn something new** -->
+👨🏻‍💻 **About Me** ✨ Flutter Developer Intern at ProCohat Technologies <br>
+⚡ Check my ✨ [Website](https://aayushpaigwar.co) or 🌱 [Linktree](https://https://linktr.ee/aayush2711)<br>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aayush-paigwar/)<br>
+👯 Join my opensource community [recodehive](https://github.com/Recode-Hive)<br>
+💬 Ask me about Flutter, Figma, Python, UI<br>
+
+
+--------------------------------------------
+<!--- 2nd Section on GitHub Analytics -->
+  <summary><b>⚙️GitHub Analytics</b></summary>
+<a href="https://github.com/aayushpaigwar">
+   <img height="155em" src="https://raw.githubusercontent.com/aayushpaigwar/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Aayush Paigwar github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/aayushpaigwar/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Aayush Paigwar github stats" />
+ <img height="155em" src="https://raw.githubusercontent.com/aayushpaigwar/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Aayush Paigwar github stats" />
+  <img height="155em" src="https://raw.githubusercontent.com/aayushpaigwar/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Aayush Paigwar github stats" />  
+   <img height="160em" src="https://raw.githubusercontent.com/aayushpaigwar/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
+     
+--------------------------------------------
+
+<!--- 3rd Section on Recent Projects -->
+
+  <details>	
+    <summary><b>📚Recent Projects/Activity</b></summary><br>
+
+  <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+2. 🎉 Merged PR [#35](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/35) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+3. 🗣 Commented on [#34](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/34#issuecomment-2104445831) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+4. 🎉 Merged PR [#33](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/33) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+5. 🗣 Commented on [#33](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/33#issuecomment-2100181450) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+  <!--END_SECTION:activity-->
+  </details> 
+
+--------------------------------------------
+## 🚀 Connect with me:
+<!-- 
+<p align="center">
+	<a href="https://www.linkedin.com/in/aayush-paigwar-457946225/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aayush.paigwar123@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+  <a href="https://twitter.com/aayush27_11"">
+		<img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+	<a href="https://instagram.com/aayush___27/">
+		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+	</a>
+	<a href="https://medium.com/@aayushpaigwar">
+		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+	</a>      
+</p> -->
 <!---Tools--->
 
 ## 💥 Tech Stack:
