@@ -58,11 +58,11 @@
 <summary><b>📚Recent Activity at GitHub</b></summary><br>
   <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#40](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/40) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-2. 🗣 Commented on [#40](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/40#issuecomment-2131361242) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-3. 🎉 Merged PR [#41](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/41) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-4. 🗣 Commented on [#40](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/40#issuecomment-2126259509) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
-5. ❗ Opened issue [#40](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/40) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+1. 🗣 Commented on [#42](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/42#issuecomment-2138801983) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+2. 🔒 Closed issue [#40](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/40) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+3. 🗣 Commented on [#40](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/40#issuecomment-2131361242) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+4. 🎉 Merged PR [#41](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/pull/41) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
+5. 🗣 Commented on [#40](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre/issues/40#issuecomment-2126259509) in [jarvis-ghrce/Innovate-with-Open-Soucre](https://github.com/jarvis-ghrce/Innovate-with-Open-Soucre)
   <!--END_SECTION:activity-->
  
 
