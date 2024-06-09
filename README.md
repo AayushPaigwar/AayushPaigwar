@@ -58,11 +58,11 @@
 <summary><b>📚Recent Activity at GitHub</b></summary><br>
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/AayushPaigwar/ML-AZURE-FUSION/pull/1) in [AayushPaigwar/ML-AZURE-FUSION](https://github.com/AayushPaigwar/ML-AZURE-FUSION)
-2. ❗ Opened issue [#51](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/51) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-3. 🎉 Merged PR [#50](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/50) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-4. 💪 Opened PR [#85](https://github.com/hannansatopay/sip24-github-fundamentals/pull/85) in [hannansatopay/sip24-github-fundamentals](https://github.com/hannansatopay/sip24-github-fundamentals)
-5. 🗣 Commented on [#49](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/49#issuecomment-2145121657) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+1. 💪 Opened PR [#2](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure/pull/2) in [jarvis-ghrce/Deploying-Backend-on-Azure](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure)
+2. ❌ Closed PR [#1](https://github.com/AayushPaigwar/ML-AZURE-FUSION/pull/1) in [AayushPaigwar/ML-AZURE-FUSION](https://github.com/AayushPaigwar/ML-AZURE-FUSION)
+3. ❗ Opened issue [#51](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/51) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+4. 🎉 Merged PR [#50](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/50) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+5. 💪 Opened PR [#85](https://github.com/hannansatopay/sip24-github-fundamentals/pull/85) in [hannansatopay/sip24-github-fundamentals](https://github.com/hannansatopay/sip24-github-fundamentals)
   <!--END_SECTION:activity-->
  
 
