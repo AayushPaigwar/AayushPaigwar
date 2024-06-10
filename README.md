@@ -58,11 +58,11 @@
 <summary><b>📚Recent Activity at GitHub</b></summary><br>
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure/pull/2) in [jarvis-ghrce/Deploying-Backend-on-Azure](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure)
-2. 💪 Opened PR [#2](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure/pull/2) in [jarvis-ghrce/Deploying-Backend-on-Azure](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure)
-3. ❌ Closed PR [#1](https://github.com/AayushPaigwar/ML-AZURE-FUSION/pull/1) in [AayushPaigwar/ML-AZURE-FUSION](https://github.com/AayushPaigwar/ML-AZURE-FUSION)
-4. ❗ Opened issue [#51](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/51) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-5. 🎉 Merged PR [#50](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/50) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+1. 💪 Opened PR [#270](https://github.com/hannansatopay/sip24-svelte-quick-notes/pull/270) in [hannansatopay/sip24-svelte-quick-notes](https://github.com/hannansatopay/sip24-svelte-quick-notes)
+2. 🎉 Merged PR [#2](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure/pull/2) in [jarvis-ghrce/Deploying-Backend-on-Azure](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure)
+3. 💪 Opened PR [#2](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure/pull/2) in [jarvis-ghrce/Deploying-Backend-on-Azure](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure)
+4. ❌ Closed PR [#1](https://github.com/AayushPaigwar/ML-AZURE-FUSION/pull/1) in [AayushPaigwar/ML-AZURE-FUSION](https://github.com/AayushPaigwar/ML-AZURE-FUSION)
+5. ❗ Opened issue [#51](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/51) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
   <!--END_SECTION:activity-->
  
 
