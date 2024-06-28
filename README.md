@@ -58,11 +58,11 @@
 <summary><b>📚Recent Activity at GitHub</b></summary><br>
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#326](https://github.com/hannansatopay/sip24-sveltekit-fundamentals/pull/326) in [hannansatopay/sip24-sveltekit-fundamentals](https://github.com/hannansatopay/sip24-sveltekit-fundamentals)
-2. 💪 Opened PR [#270](https://github.com/hannansatopay/sip24-svelte-quick-notes/pull/270) in [hannansatopay/sip24-svelte-quick-notes](https://github.com/hannansatopay/sip24-svelte-quick-notes)
-3. 🎉 Merged PR [#2](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure/pull/2) in [jarvis-ghrce/Deploying-Backend-on-Azure](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure)
-4. 💪 Opened PR [#2](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure/pull/2) in [jarvis-ghrce/Deploying-Backend-on-Azure](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure)
-5. ❌ Closed PR [#1](https://github.com/AayushPaigwar/ML-AZURE-FUSION/pull/1) in [AayushPaigwar/ML-AZURE-FUSION](https://github.com/AayushPaigwar/ML-AZURE-FUSION)
+1. 💪 Opened PR [#1](https://github.com/Fazalparkar/devstar/pull/1) in [Fazalparkar/devstar](https://github.com/Fazalparkar/devstar)
+2. 💪 Opened PR [#326](https://github.com/hannansatopay/sip24-sveltekit-fundamentals/pull/326) in [hannansatopay/sip24-sveltekit-fundamentals](https://github.com/hannansatopay/sip24-sveltekit-fundamentals)
+3. 💪 Opened PR [#270](https://github.com/hannansatopay/sip24-svelte-quick-notes/pull/270) in [hannansatopay/sip24-svelte-quick-notes](https://github.com/hannansatopay/sip24-svelte-quick-notes)
+4. 🎉 Merged PR [#2](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure/pull/2) in [jarvis-ghrce/Deploying-Backend-on-Azure](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure)
+5. 💪 Opened PR [#2](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure/pull/2) in [jarvis-ghrce/Deploying-Backend-on-Azure](https://github.com/jarvis-ghrce/Deploying-Backend-on-Azure)
   <!--END_SECTION:activity-->
  
 
