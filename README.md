@@ -48,7 +48,8 @@
 👨🏻‍💻 **About Me** ✨ Flutter Developer Intern at ProCohat Technologies <br>
 ⚡ Check my ✨ [Website](https://aayushpaigwar.co) or 🌱 [Linktree](https://linktr.ee/aayush2711)<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aayush-paigwar/)<br>
-💬 Ask me about Flutter, Figma, Python, UI<br>
+💬 Ask me about: Open Source Contribution | Flutter | Figma | Python | UI<br>
+❤️ Love to Contribute in Open Source Projects<br>
 
 --------------------------------------------
 
