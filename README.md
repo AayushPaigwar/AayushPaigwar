@@ -59,11 +59,11 @@
 <summary><b>📚Recent Activity at GitHub</b></summary><br>
   <!--START_SECTION:activity-->
 
-1. 🚀 Published release [School Feedback - v1.0.0](https://github.com/AayushPaigwar/school-feedback-system/releases/tag/v1.0.0) in [AayushPaigwar/school-feedback-system](https://github.com/AayushPaigwar/school-feedback-system)
-2. 🗣 Commented on [#2](https://github.com/Fazalparkar/devstar/pull/2#issuecomment-2209460561) in [Fazalparkar/devstar](https://github.com/Fazalparkar/devstar)
-3. 💪 Opened PR [#2](https://github.com/Fazalparkar/devstar/pull/2) in [Fazalparkar/devstar](https://github.com/Fazalparkar/devstar)
-4. 💪 Opened PR [#1](https://github.com/Fazalparkar/devstar/pull/1) in [Fazalparkar/devstar](https://github.com/Fazalparkar/devstar)
-5. 💪 Opened PR [#326](https://github.com/hannansatopay/sip24-sveltekit-fundamentals/pull/326) in [hannansatopay/sip24-sveltekit-fundamentals](https://github.com/hannansatopay/sip24-sveltekit-fundamentals)
+1. ❌ Closed PR [#4](https://github.com/AayushPaigwar/flutter-todo-app/pull/4) in [AayushPaigwar/flutter-todo-app](https://github.com/AayushPaigwar/flutter-todo-app)
+2. 💪 Opened PR [#4](https://github.com/AayushPaigwar/flutter-todo-app/pull/4) in [AayushPaigwar/flutter-todo-app](https://github.com/AayushPaigwar/flutter-todo-app)
+3. 🚀 Published release [School Feedback - v1.0.0](https://github.com/AayushPaigwar/school-feedback-system/releases/tag/v1.0.0) in [AayushPaigwar/school-feedback-system](https://github.com/AayushPaigwar/school-feedback-system)
+4. 🗣 Commented on [#2](https://github.com/Fazalparkar/devstar/pull/2#issuecomment-2209460561) in [Fazalparkar/devstar](https://github.com/Fazalparkar/devstar)
+5. 💪 Opened PR [#2](https://github.com/Fazalparkar/devstar/pull/2) in [Fazalparkar/devstar](https://github.com/Fazalparkar/devstar)
   <!--END_SECTION:activity-->
  
 
