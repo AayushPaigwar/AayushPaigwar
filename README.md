@@ -59,11 +59,11 @@
 <summary><b>📚Recent Activity at GitHub</b></summary><br>
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#48](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/48#issuecomment-2364002328) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-2. 🎉 Merged PR [#52](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/52) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-3. 🚀 Published release [School Feedback - v0.0.1](https://github.com/AayushPaigwar/school-feedback-system/releases/tag/v0.0.1) in [AayushPaigwar/school-feedback-system](https://github.com/AayushPaigwar/school-feedback-system)
-4. 🗣 Commented on [#2045](https://github.com/syncfusion/flutter-widgets/issues/2045#issuecomment-2350911882) in [syncfusion/flutter-widgets](https://github.com/syncfusion/flutter-widgets)
-5. 🚀 Published release [School Feedback - v0.0.0](https://github.com/AayushPaigwar/school-feedback-system/releases/tag/v0.0.0) in [AayushPaigwar/school-feedback-system](https://github.com/AayushPaigwar/school-feedback-system)
+1. 🔒 Closed issue [#48](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/48) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+2. 🎉 Merged PR [#53](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/53) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+3. 🗣 Commented on [#53](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/53#issuecomment-2368951683) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+4. 🗣 Commented on [#48](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/48#issuecomment-2364002328) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+5. 🎉 Merged PR [#52](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/52) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
   <!--END_SECTION:activity-->
  
 
