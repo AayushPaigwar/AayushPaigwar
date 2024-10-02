@@ -59,11 +59,11 @@
 <summary><b>📚Recent Activity at GitHub</b></summary><br>
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#69](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/69) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-2. 🎉 Merged PR [#73](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/73) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-3. 🎉 Merged PR [#70](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/70) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-4. ❌ Closed PR [#72](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/72) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-5. 💪 Opened PR [#72](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/72) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+1. 🎉 Merged PR [#77](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/77) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+2. 💪 Opened PR [#77](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/77) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+3. 🗣 Commented on [#51](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/51#issuecomment-2387827288) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+4. 🗣 Commented on [#36](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/36#issuecomment-2387812140) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+5. 🗣 Commented on [#37](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/37#issuecomment-2387811751) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
   <!--END_SECTION:activity-->
  
 
