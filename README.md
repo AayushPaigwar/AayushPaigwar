@@ -59,11 +59,11 @@
 <summary><b>📚Recent Activity at GitHub</b></summary><br>
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#82](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/82#issuecomment-2388244468) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-2. 🔒 Closed issue [#80](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/80) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+1. 🗣 Commented on [#80](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/80#issuecomment-2388258625) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+2. 🗣 Commented on [#82](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/82#issuecomment-2388244468) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
 3. 🔒 Closed issue [#80](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/80) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-4. 🎉 Merged PR [#82](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/82) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-5. 🎉 Merged PR [#81](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/81) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+4. 🔒 Closed issue [#80](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/80) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+5. 🎉 Merged PR [#82](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/82) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
   <!--END_SECTION:activity-->
  
 
