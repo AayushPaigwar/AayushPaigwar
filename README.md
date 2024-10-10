@@ -104,7 +104,7 @@
 ![Linux](https://img.shields.io/badge/Linux-12100E?style=for-the-badge&logo=linux&logoColor=white)
 
 <details >
-    <summary><h3>👈🏻HacktoberFest 2023🎃 </h3></summary>
+    <summary><h3>👈🏻HacktoberFest 🎃 </h3></summary>
 
 [![An image of @aayushpaigwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushpaigwar)](https://holopin.io/@aayushpaigwar)
 </details>
