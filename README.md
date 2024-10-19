@@ -59,11 +59,11 @@
 <summary><b>📚Recent Activity at GitHub</b></summary><br>
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#55](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/55#issuecomment-2422953238) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-2. 🗣 Commented on [#10973](https://github.com/ToolJet/ToolJet/issues/10973#issuecomment-2421436881) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-3. 🗣 Commented on [#55](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/55#issuecomment-2418729636) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-4. 🎉 Merged PR [#144](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/144) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
-5. 🎉 Merged PR [#143](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/pull/143) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+1. 🗣 Commented on [#10973](https://github.com/ToolJet/ToolJet/issues/10973#issuecomment-2423079471) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+2. 💪 Opened PR [#11030](https://github.com/ToolJet/ToolJet/pull/11030) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+3. 🗣 Commented on [#55](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/55#issuecomment-2422953238) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
+4. 🗣 Commented on [#10973](https://github.com/ToolJet/ToolJet/issues/10973#issuecomment-2421436881) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+5. 🗣 Commented on [#55](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre/issues/55#issuecomment-2418729636) in [AayushPaigwar/Innovate-with-Open-Soucre](https://github.com/AayushPaigwar/Innovate-with-Open-Soucre)
   <!--END_SECTION:activity-->
  
 
