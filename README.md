@@ -10,7 +10,7 @@
 <br>
   
 
-<h1 align="center">Hi there, I'm  <a href="https://aayushpaigwar.me">Aayush Paigwar</a> </h1></h1>
+<h1 align="center">Hi there, I'm  <a href="https://devziner.vercel.app">Aayush Paigwar</a> </h1></h1>
 <h3 align="center">A Flutter Developer & Designer</h3>
 
 
