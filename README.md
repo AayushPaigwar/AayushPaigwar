@@ -11,7 +11,7 @@
   
 
 <h1 align="center">Hi there, I'm  <a href="https://devziner.vercel.app">Aayush Paigwar</a> </h1></h1>
-<h3 align="center">A Flutter Developer & Designer</h3>
+<h3 align="center">A Software Engineer & Designer</h3>
 
 
 <!-- Connect with me Socials -->
@@ -45,7 +45,7 @@
 
 - 📫 How to reach me **aayush.paigwar123@gmail.com**
 - 💡 **Always ready to learn something new** -->
-👨🏻‍💻 **About Me** ✨ Flutter Developer Intern at ProCohat Technologies <br>
+👨🏻‍💻 **About Me** ✨ Software Engineer - Mobile at ProCohat Technologies <br>
 ⚡ Check my ✨ [Website](https://devziner.vercel.app) or 🌱 [Linktree](https://linktr.ee/aayush2711)<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aayush-paigwar/)<br>
 💬 Ask me about: Open Source Contribution | Flutter | Figma | Python | UI<br>
